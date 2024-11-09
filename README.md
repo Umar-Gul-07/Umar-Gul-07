@@ -50,4 +50,3 @@ I'm **Saqib Ahmad**, a Professional **Full Stack Web Developer, DevOps, and Soft
 ![NLP](https://img.shields.io/static/v1?message=NLP&logo=nlp&label=&color=32A852&logoColor=white&labelColor=&style=for-the-badge)
 ![GPT-3](https://img.shields.io/static/v1?message=GPT-3&logo=openai&label=&color=412991&logoColor=white&labelColor=&style=for-the-badge)
 ![GPT-4](https://img.shields.io/static/v1?message=GPT-4&logo=openai&label=&color=412991&logoColor=white&labelColor=&style=for-the-badge)
-![ChatGPT](https://img.shields.io/static/v1?message=ChatGPT&logo=openai&label=&color=412991&logoColor
