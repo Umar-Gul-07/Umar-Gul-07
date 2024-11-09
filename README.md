@@ -1,81 +1,43 @@
-# 👋 Hello, I'm Umar Gul
+<!--
+- 👋 Hi, I’m @Umar-Gul
+- 👀 I’m a Professional Full Stack MERN Developer & Software Engineer.
+- 📫 How to reach me: umargul692002@gmail.com
 
-I'm a dedicated **Software Engineer** and **MERN Stack Developer** passionate about crafting efficient, scalable, and user-friendly applications. I love exploring new technologies, solving complex problems, and bringing creative ideas to life through code.
+<!---
+Umar-Gul-07/Umar-Gul-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. -->
 
----
+<h1>
+👋 Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+</h1>
 
-### 🛠️ Tech Stack
+I'm Umar Gul, a Professional Full Stack MERN Developer & Software Engineer. 🎨
 
-**Languages & Libraries**  
-- **Frontend**: JavaScript (ES6+), HTML5, CSS3, React, Redux  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Others**: Git, RESTful APIs, Docker, GraphQL, TypeScript  
+I specialize in building efficient, scalable, and interactive web applications. With a strong foundation in the MERN stack (MongoDB, Express, React, and Node.js), I create custom solutions tailored to meet business objectives, foster innovation, and ensure user-friendly experiences. 🚀
 
----
+<br/>
 
-### 💼 Professional Experience
+<img src="https://raw.githubusercontent.com/Umar-Gul-07/Umar-Gul-07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-**Software Engineer**  
-_Working on advanced web applications, creating seamless user experiences, and contributing to backend architecture._
+## 🛠 Skills
 
-1. **Backend Development**: Building robust RESTful services and APIs with Node.js, optimizing data flows and processes.
-2. **Frontend Mastery**: Crafting dynamic, responsive UIs using React, ensuring high usability and engaging design.
-3. **Project Collaboration**: Collaborating with teams and stakeholders to translate business needs into tech solutions, managing sprints and technical planning.
+![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge)
+![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge)
+![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge)
+![ES6](https://img.shields.io/static/v1?message=ES6&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge)
+![React](https://img.shields.io/static/v1?message=React&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge)
+![Next.js](https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+![Node.js](https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge)
+![Express.js](https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+![MongoDB](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge)
+![Firebase](https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge)
 
----
+![Bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=563D7C&logoColor=white&labelColor=&style=for-the-badge)
+![Git](https://img.shields.io/static/v1?message=Git&logo=git&label=&color=E44C30&logoColor=white&labelColor=&style=for-the-badge)
+![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)
+![Figma](https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge)
 
-### 📈 GitHub Highlights
+## 🤝🏻 &nbsp;Let's Connect!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=graywhite&hide_border=true" width="400" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-- **[E-commerce Platform](https://github.com/YourGitHubUsername/E-commerce-Platform)**  
-  A comprehensive online store built with the MERN stack, featuring dynamic product listings, secure user authentication, and real-time cart updates.
-
-- **[Real-Time Chat App](https://github.com/YourGitHubUsername/Real-Time-Chat-App)**  
-  A full-stack chat application that provides seamless real-time communication using Socket.IO and MongoDB.
-
-- **[Portfolio Website](https://github.com/YourGitHubUsername/Portfolio)**  
-  A personal portfolio website to showcase projects, skills, and experience, built with React and deployed using Docker.
-
----
-
-### 📜 Certifications & Training
-
-- **Full-Stack Web Development Certificate** – [Platform Name or Certificate Link]
-- **Docker Fundamentals** – [Platform Name or Certificate Link]
-- **React Advanced** – [Platform Name or Certificate Link]
-
----
-
-### 📫 Connect with Me
-
-I'm always open to discussing tech, collaboration, or just chatting about the latest in software development. Let's connect!
-
-- **LinkedIn**: [linkedin.com/in/umar-gul](https://linkedin.com/in/umar-gul)
-- **Email**: [umar.gul@example.com](mailto:umar.gul@example.com)
-
----
-
-### 🧠 Fun Facts
-
-- Lifelong learner – Currently diving into **GraphQL** and **Machine Learning**.
-- Favorite productivity hack – keeping mornings reserved for code and deep work, evenings for design and brainstorming.
-- When I’m not coding – You’ll find me exploring hiking trails or experimenting with photography.
-
----
-
-### 📝 Coding Philosophy
-
-> "Write code as if the next person to maintain it is a violent psychopath who knows where you live."
-
----
-
-Thank you for visiting! Feel free to reach out if you’d like to collaborate, brainstorm, or chat tech. 😊
+If you're looking for a skilled MERN stack developer or want to discuss web development, feel free to reach out! 🌐  
+[**GitHub Profile**](https://github.com/Umar-Gul-07)
