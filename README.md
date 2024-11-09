@@ -1,80 +1,98 @@
-Here's an enhanced, animated, and visually captivating version of your GitHub README file:
-
----
-
 <h1 align="center">
-  👋 Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
+  Hey there! I'm Saqib 👋
 </h1>
 
-<h3 align="center">
-  I'm Umar Gul, a Professional Full Stack Web Developer & Software Engineer! 🎨
-</h3>
-
 <p align="center">
-  I specialize in crafting complex, scalable web applications with intuitive interfaces, efficient logic, and problem-solving capabilities. Every project is designed with a balance of innovation, quality, and professionalism to achieve client goals and foster success. 🚀
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=Django&logo=django&label=&color=092E20&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=E44C30&logoColor=white&labelColor=&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge">
-  <!-- Add more icons as needed -->
-</div>
-
-<br>
-
-## 🏆 Certifications
-
-<div align="center">
-  <a href="https://www.credly.com/badges/78d69f54-6212-46b6-9c2b-21d3562aba37">
-    <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="100" height="100" alt="Docker Essentials Badge">
-  </a>
-  <a href="https://www.credly.com/badges/84da1498-c523-46c8-8605-55720c8bd7f5">
-    <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" width="100" height="100" alt="Cloud Core Badge">
-  </a>
-  <a href="https://www.credly.com/badges/aaea3ab8-2d1a-46c2-9177-2ea64a44d1a8">
-    <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" width="100" height="100" alt="Web Development Essentials">
-  </a>
-  <!-- Add more badges as needed -->
-</div>
-
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak">
-</div>
-
-<br>
-
-## 🤝 Let's Connect
-
-<p align="center">
-  If you’re looking for a collaborative developer who crafts high-quality, scalable applications, feel free to reach out! Let's connect on <a href="mailto:saqibahmad778866@gmail.com">Email</a>, <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>, or check out my <a href="https://yourwebsite.com">Website</a>.
+  <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" width="50">
 </p>
 
 ---
 
-This version adds more animation, alignment, and aesthetics, making it visually engaging for visitors to your GitHub profile!
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/000000/developer.png"/>
+  About Me
+</h2>
+
+<p align="center">
+  I’m a passionate <strong>MERN Stack Developer</strong> and <strong>Software Engineer</strong> 🌍. 
+  I specialize in building complex web applications with an eye for scalability and performance.
+  Let's turn ideas into reality and bring code to life! 🌐
+</p>
+
+---
+
+<h2 align="center">🔧 Tech Stack</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+---
+
+<h2 align="center">🌌 Recent Projects</h2>
+
+<div align="center">
+  <p align="center">🌐 Check out some of my recent projects that push the boundaries of what can be achieved with code:</p>
+  <ul align="left">
+    <li><strong><a href="https://github.com/YourGitHubUsername/Project1">Project One</a>:</strong> A fully functional e-commerce platform using MERN.</li>
+    <li><strong><a href="https://github.com/YourGitHubUsername/Project2">Project Two</a>:</strong> Real-time chat application with socket.io and MongoDB.</li>
+    <li><strong><a href="https://github.com/YourGitHubUsername/Project3">Project Three</a>:</strong> A responsive portfolio website with React and Node.</li>
+  </ul>
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements & Certifications</h2>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/your-badge-url">
+    <img src="https://images.credly.com/size/110x110/images/your-badge-image.png" alt="Certification Name" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/your-other-badge-url">
+    <img src="https://images.credly.com/size/110x110/images/other-badge-image.png" alt="Certification Name" width="100" height="100">
+  </a>
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect!</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/YourLinkedInUsername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
+
+---
+
+<h2 align="center">⚙️ Fun Facts & Tech Snippets</h2>
+
+<p align="center">
+  💻 Coding since the dawn of time, or at least it feels like it! <br>
+  🚀 Favorite language: JavaScript—bringing life to the web. <br>
+  🌱 Currently diving deep into AI and Machine Learning to take MERN to the next level.
+</p>
+
+---
+
+<h2 align="center">🌌 Animation Time</h2>
+
+<div align="center">
+  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
