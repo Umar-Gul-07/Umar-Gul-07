@@ -47,6 +47,4 @@ I'm **Umar Gul**, a Professional **Full Stack Web Developer, DevOps, and Softwar
 ![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge)
 ![PyTorch](https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
-![NLP](https://img.shields.io/static/v1?message=NLP&logo=nlp&label=&color=32A852&logoColor=white&labelColor=&style=for-the-badge)
-![GPT-3](https://img.shields.io/static/v1?message=GPT-3&logo=openai&label=&color=412991&logoColor=white&labelColor=&style=for-the-badge)
-![GPT-4](https://img.shields.io/static/v1?message=GPT-4&logo=openai&label=&color=412991&logoColor=white&labelColor=&style=for-the-badge)
+![NLP](https://img.shields.io/static/v1?message=NLP&logo=nlp&label=&color=32A852&logoColor=white&labelColor=&style=for-the-badge) 
