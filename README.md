@@ -39,12 +39,8 @@ I'm **Umar Gul**, a Professional **Full Stack Web Developer, DevOps, and Softwar
 ![Express.js](https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
 ![Node.js](https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge)
 ![Figma](https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge)
-![Python](https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge)
 ![Java](https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge)
 ![C](https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge)
-![Django](https://img.shields.io/static/v1?message=Django&logo=django&label=&color=092E20&logoColor=white&labelColor=&style=for-the-badge)
-![Flask](https://img.shields.io/static/v1?message=Flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge)
-![PyTorch](https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
-![NLP](https://img.shields.io/static/v1?message=NLP&logo=nlp&label=&color=32A852&logoColor=white&labelColor=&style=for-the-badge) 
+ 
