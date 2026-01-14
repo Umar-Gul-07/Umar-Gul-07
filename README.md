@@ -1,12 +1,4 @@
-<h1 align="center">
-  👋 Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Umar Gul
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;DevOps+Engineer;Software+Innovator;Problem+Solver+Extraordinaire;Crafting+Digital+Worlds+with+Code" alt="Typing SVG" />
-</p>
-
- <!--
+<!--
 - 👋 Hi, I’m @Umar Gul
 - 👀 I’m Professional Full Stack Web Developer DevOps & Software Engineer.
 - 📫 How to reach me umargul692002@gmail.com
